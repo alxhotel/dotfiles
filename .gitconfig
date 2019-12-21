@@ -1,0 +1,7 @@
+[user]
+	name = Alex
+	email = alxmorais8@msn.com
+[push]
+	default = simple
+[core]
+	excludesfile = ~/.gitignore
